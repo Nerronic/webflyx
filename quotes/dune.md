@@ -6,5 +6,3 @@
 <<<<<<< HEAD
 
 =======
-- "The spice must flow."
->>>>>>> 9ad4a0b (H: Add quote 'The spice must flow.')
